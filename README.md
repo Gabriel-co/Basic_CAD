@@ -60,7 +60,7 @@ The base to fit the wheel of the castor project.
 ### Evidence
 https://cvilleschools.onshape.com/documents/6ca4d7aa9c812687c4ebb00f/w/23768fb105910873cce377a2/e/3e95bcf66a4f5a614f44f4d1
 ### Image
-<img src="images/TheFork" alt="The Fork" width="200">
+TheFork.png
 ### Reflection
 I learned how to mirror things in CAD and how to put fillets on my work.
 ---
