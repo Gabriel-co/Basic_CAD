@@ -75,7 +75,7 @@ https://cvilleschools.onshape.com/documents/1ea5c7cf18ded946e2c4bdac/w/127a6379f
 ### Image
 <img src="images/TheTire.png" alt="The Tire" width="200">
 ### Reflection
-
+I learned that you can manipulate shapes like trapazoids into circles.
 ---
 
 
