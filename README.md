@@ -69,9 +69,9 @@ I learned how to mirror things in CAD and how to put fillets on my work.
 ## Tire
 
 ### Description
-
+The tire goes around the wheel in our castor project.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/1ea5c7cf18ded946e2c4bdac/w/127a6379fb4ad654f2526d34/e/999341ae11b8960f6130bec1
 ### Image
 <img src="images/TheTire.png" alt="The Tire" width="200">
 ### Reflection
