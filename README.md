@@ -56,7 +56,7 @@ The mount was fun to make and made me really feel like I underst and CAD.
 ## Fork
 
 ### Description
-The base to fit the wheel of the castor project.
+The base to fit the wheel of the caster project.
 ### Evidence
 https://cvilleschools.onshape.com/documents/6ca4d7aa9c812687c4ebb00f/w/23768fb105910873cce377a2/e/3e95bcf66a4f5a614f44f4d1
 ### Image
@@ -69,7 +69,7 @@ I learned how to mirror things in CAD and how to put fillets on my work.
 ## Tire
 
 ### Description
-The tire goes around the wheel in our castor project.
+The tire goes around the wheel in our caster project.
 ### Evidence
 https://cvilleschools.onshape.com/documents/1ea5c7cf18ded946e2c4bdac/w/127a6379fb4ad654f2526d34/e/999341ae11b8960f6130bec1
 ### Image
@@ -82,13 +82,13 @@ I learned that you can manipulate shapes like trapazoids into circles.
 ## Wheel
 
 ### Description
-
+The Wheel is the main function of the caster project.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/46bb1c2b9e0f88116e2cc1b5/w/17f509ce9b6f2e06aa61ef36/e/814e4ef591f03223d3a16ba8
 ### Image
-
+<img src="images/TheWheel.png" alt="The Wheel" width="200">
 ### Reflection
-
+The Wheel was the most challenging part of the caster project, I learned how to use construction lines and the mirror features in Onshape.
 ---
 
 
