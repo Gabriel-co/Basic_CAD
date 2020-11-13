@@ -95,11 +95,11 @@ The Wheel was the most challenging part of the caster project, I learned how to 
 ## AxleCollarBearings
 
 ### Description
-
+The axle, collar, and bearings were key parts to finishing the Castor.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/ae5d86e31de395b6fcbe4142/w/8deef2a00d080e168734b03a/e/56b06dd40462ba2fabc8e2b7
 ### Image
-
+<img src="images/TheCastor" alt="The Caster" width="200">
 ### Reflection
-
+The castor project was fun and I learned a lot about CAD.
 ---
