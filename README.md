@@ -60,7 +60,7 @@ The base to fit the wheel of the caster project.
 ### Evidence
 https://cvilleschools.onshape.com/documents/6ca4d7aa9c812687c4ebb00f/w/23768fb105910873cce377a2/e/3e95bcf66a4f5a614f44f4d1
 ### Image
-<img src="images/TheFork" alt="The Fork" width="200">
+[image](https://user-images.githubusercontent.com/71403036/121739648-ec804a80-cac9-11eb-8451-26ae155ac0ae.png)
 ### Reflection
 I learned how to mirror things in CAD and how to put fillets on my work.
 ---
@@ -73,7 +73,7 @@ The tire goes around the wheel in our caster project.
 ### Evidence
 https://cvilleschools.onshape.com/documents/1ea5c7cf18ded946e2c4bdac/w/127a6379fb4ad654f2526d34/e/999341ae11b8960f6130bec1
 ### Image
-<img src="images/TheTire.png" alt="The Tire" width="200">
+![image](https://user-images.githubusercontent.com/71403036/121739741-0752bf00-caca-11eb-8ba0-631e5cd9f719.png)
 ### Reflection
 I learned that you can manipulate shapes like trapazoids into circles.
 ---
@@ -86,7 +86,7 @@ The Wheel is the main function of the caster project.
 ### Evidence
 https://cvilleschools.onshape.com/documents/46bb1c2b9e0f88116e2cc1b5/w/17f509ce9b6f2e06aa61ef36/e/814e4ef591f03223d3a16ba8
 ### Image
-<img src="images/TheWheel.png" alt="The Wheel" width="200">
+![image](https://user-images.githubusercontent.com/71403036/121739792-1afe2580-caca-11eb-84b3-f5da7dd2cf54.png)
 ### Reflection
 The Wheel was the most challenging part of the caster project, I learned how to use construction lines and the mirror features in Onshape.
 ---
@@ -97,9 +97,9 @@ The Wheel was the most challenging part of the caster project, I learned how to 
 ### Description
 The axle, collar, and bearings were key parts to finishing the Castor.
 ### Evidence
-https://cvilleschools.onshape.com/documents/ae5d86e31de395b6fcbe4142/w/8deef2a00d080e168734b03a/e/56b06dd40462ba2fabc8e2b7
+https://cvilleschools.onshape.com/documents/ccc99442a0f398af5b601506/w/71d88852e9f864adb860987d/e/05d8870d7f106d5caffb3844
 ### Image
-<img src="images/TheCastor" alt="The Caster" width="200">
+![image](https://user-images.githubusercontent.com/71403036/121739873-3d903e80-caca-11eb-90cb-cc42e9096f9e.png)
 ### Reflection
 The castor project was fun and I learned a lot about CAD.
 ---
