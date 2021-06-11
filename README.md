@@ -103,3 +103,15 @@ https://cvilleschools.onshape.com/documents/ae5d86e31de395b6fcbe4142/w/8deef2a00
 ### Reflection
 The castor project was fun and I learned a lot about CAD.
 ---
+
+## Assembly 
+
+### description 
+The assembly is a compilation of all the assignments into one final assembly. This was a lot of fun to make.
+
+### evidence 
+https://cvilleschools.onshape.com/documents/ae5d86e31de395b6fcbe4142/w/8deef2a00d080e168734b03a/e/56b06dd40462ba2fabc8e2b7
+
+### image
+![image](https://user-images.githubusercontent.com/71403036/121739431-9c08ed00-cac9-11eb-8458-daec1da7ead7.png)
+
